@@ -18,6 +18,10 @@ public class sample
     Sysout("this is mul method");
     
   }
+  public void div()
+  {
+    sysout("this is div method");
+  }  
 
 
 }
