@@ -6,6 +6,12 @@ public class sample
     Sysout("this is add method");
     
   }
+  
+  public void sub()
+  {
+    Sysout("this is sub method");
+    
+  }
 
 
 }
