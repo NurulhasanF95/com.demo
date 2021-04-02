@@ -12,6 +12,12 @@ public class sample
     Sysout("this is sub method");
     
   }
+  
+  public void mul()
+  {
+    Sysout("this is mul method");
+    
+  }
 
 
 }
