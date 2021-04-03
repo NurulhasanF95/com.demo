@@ -22,6 +22,10 @@ public class sample
   {
     sysout("this is div method");
   }  
+  
+  public void perc()
+  {
+    sysout("this is perc method")
 
 
 }
